@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lambdas
+title: Basic Lambdas Info
 parent: Lambdas
 grandparent: Topics
 ---
