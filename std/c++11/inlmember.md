@@ -2,6 +2,7 @@
 layout: default
 title: Inline member initialization
 parent: C++11
+grandparent: Standards
 ---
 # Inline member initialization
 

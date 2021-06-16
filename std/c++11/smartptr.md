@@ -2,6 +2,7 @@
 layout: default
 title: Smart pointers
 parent: C++11
+grandparent: Standards
 ---
 # Smart pointers
 

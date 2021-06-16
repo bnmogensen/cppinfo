@@ -2,6 +2,7 @@
 layout: default
 title: Range-based for loops
 parent: C++11
+grandparent: Standards
 ---
 # Range-based for loops
 

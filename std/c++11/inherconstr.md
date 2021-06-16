@@ -2,6 +2,7 @@
 layout: default
 title: Inherited constructors
 parent: C++11
+grandparent: Standards
 ---
 ## Inherited constructors
 

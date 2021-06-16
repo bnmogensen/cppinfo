@@ -2,6 +2,7 @@
 layout: default
 title: default/delete functions
 parent: C++11
+grandparent: Standards
 ---
 
 # default/delete

@@ -2,6 +2,7 @@
 layout: default
 title: Move semantics
 parent: C++11
+grandparent: Standards
 ---
 # move semantics
 
