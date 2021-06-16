@@ -2,7 +2,7 @@
 layout: default
 title: final
 parent: C++11
-grandparent: Standards
+grand_parent: Standards
 ---
 # final
 

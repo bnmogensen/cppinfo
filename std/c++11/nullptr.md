@@ -2,7 +2,7 @@
 layout: default
 title: nullptr
 parent: C++11
-grandparent: Standards
+grand_parent: Standards
 ---
 # nullptr
 

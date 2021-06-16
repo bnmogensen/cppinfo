@@ -2,7 +2,7 @@
 layout: default
 title: Variadic template
 parent: C++11
-grandparent: Standards
+grand_parent: Standards
 ---
 * Variadic templates
 

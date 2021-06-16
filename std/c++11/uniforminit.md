@@ -2,7 +2,7 @@
 layout: default
 title: Uniform initialization
 parent: C++11
-grandparent: Standards
+grand_parent: Standards
 ---
 # Uniform initialization
 

@@ -2,7 +2,7 @@
 layout: default
 title: Lambdas
 parent: C++11
-grandparent: Standards
+grand_parent: Standards
 ---
 
 # Lambdas

@@ -2,7 +2,7 @@
 layout: default
 title: Scoped enums
 parent: C++11
-grandparent: Standards
+grand_parent: Standards
 ---
 # scoped enums
 

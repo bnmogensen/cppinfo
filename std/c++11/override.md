@@ -2,7 +2,7 @@
 layout: default
 title: override specifier
 parent: C++11
-grandparent: Standards
+grand_parent: Standards
 ---
 # override
 
