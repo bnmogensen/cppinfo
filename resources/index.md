@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Standards
-nav_order: 4
+title: Resources
+nav_order: 1
 has_children: true
 ---
 ### C++ Topics
