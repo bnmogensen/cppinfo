@@ -2,7 +2,7 @@
 layout: default
 title: Endl
 parent: Others
-grandparent: Topics
+grand_parent: Topics
 ---
 # endl
 

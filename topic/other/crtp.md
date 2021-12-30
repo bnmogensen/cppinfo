@@ -2,7 +2,7 @@
 layout: default
 title: CRTP
 parent: Others
-grandparent: Topics
+grand_parent: Topics
 ---
 # CRTP
 

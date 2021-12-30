@@ -2,7 +2,7 @@
 layout: default
 title: Constructors
 parent: Others
-grandparent: Topics
+grand_parent: Topics
 ---
 # constructors
 

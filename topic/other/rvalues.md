@@ -2,7 +2,7 @@
 layout: default
 title: Rvalues
 parent: Others
-grandparent: Topics
+grand_parent: Topics
 ---
 # rvalues
 

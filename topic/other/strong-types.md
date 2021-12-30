@@ -2,7 +2,7 @@
 layout: default
 title: Strong Types
 parent: Others
-grandparent: Topics
+grand_parent: Topics
 ---
 # Strong types
 

@@ -2,7 +2,7 @@
 layout: default
 title: Basic Lambdas Info
 parent: Lambdas
-grandparent: Topics
+grand_parent: Topics
 ---
 ### Lambdas
 
