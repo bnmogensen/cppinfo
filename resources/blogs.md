@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Resources
+title: Blog Resources
 nav_order: 1
 has_children: false
 ---
-### C++ Resources
+### C++ Blog Resources
