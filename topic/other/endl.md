@@ -1,3 +1,9 @@
+---
+layout: default
+title: Endl
+parent: Others
+grandparent: Topics
+---
 # endl
 
 There is some debate about using `endl` vs manual newlines.

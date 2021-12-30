@@ -2,7 +2,7 @@
 layout: default
 title: Others
 parent: Topics
-has_children: false
+has_children: true
 ---
 ### Other features
 

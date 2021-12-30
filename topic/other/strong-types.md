@@ -1,3 +1,9 @@
+---
+layout: default
+title: Strong Types
+parent: Others
+grandparent: Topics
+---
 # Strong types
 
 - FluentC++: 

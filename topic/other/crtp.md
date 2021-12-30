@@ -1,3 +1,9 @@
+---
+layout: default
+title: CRTP
+parent: Others
+grandparent: Topics
+---
 # CRTP
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern)
